@@ -1,0 +1,11 @@
+# Data is generated locally by 00_generate_synthetic_data.R, not committed.
+# results/ is committed on purpose, from a run against that synthetic data.
+data/
+
+# R session/project files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rds
+.DS_Store
